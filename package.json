@@ -6,7 +6,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/itchief/gulp-project-bootstrap-4.git"
+    "url": "git://github.com/d1m4a/iskra_drive.git"
   },
   "dependencies": {
     "jquery": "^3.3.1",
