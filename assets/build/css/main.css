@@ -1,3 +1,4 @@
+@import url(jquery.fancybox.css);
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -7689,12 +7690,12 @@ h1, h2, h3, h4, h5, h6 {
 
 .cir__fil,
 .chek {
-  fill: #dbe8e7;
+  fill: #40A1BC;
   transition: all .5s ease; }
 
 .service__wrapper.checked #check .cir__fil,
 .service__wrapper.checked #check .chek {
-  fill: #40A1BC; }
+  fill: #EF7F1A; }
 
 .service__header {
   margin: 0;
@@ -7712,7 +7713,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 0.9rem; }
 
 .service__subheader {
-  color: #40A1BC;
+  color: #EF7F1A;
   margin: 0;
   padding: 0;
   margin-bottom: 10px;
@@ -7720,7 +7721,8 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: 20px; }
 
 .profit__list {
-  color: #40A1BC; }
+  color: #40A1BC;
+  padding-left: 10px; }
 
 .profit__item {
   list-style: none;
@@ -7730,15 +7732,16 @@ h1, h2, h3, h4, h5, h6 {
 
 .profit__img {
   display: block;
-  width: 30px;
-  height: 30px;
+  width: 25px;
+  height: 25px;
   margin-right: 10px; }
 
 .po__list {
   margin-bottom: 0; }
 
 .profit__text {
-  margin-bottom: 0; }
+  margin-bottom: 0;
+  color: #185d7d; }
 
 .profit__item,
 .po__item {

@@ -1,6 +1,8 @@
 // Импортируем jQuery
 //= ../../../node_modules/jquery/dist/jquery.js
 
+//= jquery.fancybox.min.js
+
 // Импортируем Popper
 //= ../../../node_modules/popper.js/dist/umd/popper.js
 

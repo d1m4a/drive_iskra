@@ -40,5 +40,7 @@
 @import "../../../node_modules/bootstrap/scss/_utilities";
 @import "../../../node_modules/bootstrap/scss/_print";
 
+@import "jquery.fancybox.css";
+
 // Подключение своих SCSS файлов
 @import "my";
